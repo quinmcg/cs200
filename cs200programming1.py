@@ -2,7 +2,6 @@
 Quinlan McGaugh
 Programming Assignment 1
 Standard
-Ruben - Went to Ruben to ask about eval() function
 
 Sample Output:
 
@@ -14,9 +13,6 @@ Sample Output:
   T T T
 >>>
 
-Roughly 4 hours - attempted first in java, then attempted challenge
-                    problem without success. Coding the Python version took
-                    roughly 45-60 minutes.
 
 '''
 
